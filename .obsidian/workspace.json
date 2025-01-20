@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "7add892327a165f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "355fbfe393999b78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f37bdee328622f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Linear Equations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linear Equations"
+            }
+          },
+          {
+            "id": "d3f73e5dcaf4dcc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Content/Polynomials.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Polynomials"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae03e3b94ede4024",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7cc1e7f55156cd8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8291f7711f4cf19",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3acb43d2930f82a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "72a5a4daeee84186",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "88c44e9d8d6dcba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1117b50c2e64177a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e978a89a7e7367b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Math/Content/Measure and Length of an arc.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Measure and Length of an arc"
+            }
+          },
+          {
+            "id": "631371fad0b75d5c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Math/Content/Measure and Length of an arc.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Measure and Length of an arc"
+            }
+          },
+          {
+            "id": "1aea17f57ba80195",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "246dd32069cf9d97",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Math/Content/Measure and Length of an arc.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Measure and Length of an arc"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d3f73e5dcaf4dcc5",
+  "lastOpenFiles": [
+    "Math/Algebra.md",
+    "Math/Linear Equations.md",
+    "Math/Circles, Angles & Trigonometry.md",
+    "Math/Content/Polynomials.md",
+    "Math/Content/General Equation for a Circle.md",
+    "Math/Content/Measure and Length of an arc.md",
+    "Math/Content/Perpendicular & Parallel Lines.md",
+    "Math/Content",
+    "Assets/Pasted image 20250119121138.png",
+    "Assets",
+    "Assets/Pasted image 20250119120305.png",
+    "Math/test.md",
+    "Math",
+    "2025-01-19.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Welcome.md"
+  ]
+}
