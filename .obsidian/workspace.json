@@ -6,6 +6,7 @@
       {
         "id": "355fbfe393999b78",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "2f37bdee328622f8",
@@ -179,13 +180,15 @@
   },
   "active": "d3f73e5dcaf4dcc5",
   "lastOpenFiles": [
-    "Math/Algebra.md",
-    "Math/Linear Equations.md",
-    "Math/Circles, Angles & Trigonometry.md",
+    "Adjusted Sum and Product.md",
     "Math/Content/Polynomials.md",
+    "Bhaskara Theorem.md",
     "Math/Content/General Equation for a Circle.md",
     "Math/Content/Measure and Length of an arc.md",
     "Math/Content/Perpendicular & Parallel Lines.md",
+    "Math/Algebra.md",
+    "Math/Linear Equations.md",
+    "Math/Circles, Angles & Trigonometry.md",
     "Math/Content",
     "Assets/Pasted image 20250119121138.png",
     "Assets",
